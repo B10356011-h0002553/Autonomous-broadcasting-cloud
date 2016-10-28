@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "corded-woodland-134623",
+  "private_key_id": "cf8c07d55b84b1e25986438988db9bfc214c73ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDKTMk36JE9Gm5v\nQHeghzaqkbS9RgClpQZI/viG6EAlUTVsOBxj+23QyqTEV9gsW6k0oP7aW8Nua781\nF8HmaDUZo699tmNW9zVP0858UFBktULaKDt0zC75kGvXWLu+wpcxol5Qmjq5ZS2q\nO0L0p32VL4OZH/FlyqqywYfkBVydTLu816zp710d9Qr+vTrB3jS5XjV7M/MuNNhx\noKtN1eh95QbbqQQwBdBskCdPoKnWMkGU51Oj5ZjTt82ne9c9mzcEJMblGUyFPCRE\nQyvOu201N27fWUE+WN0rIF0t6PY0A3tjKhRTDm/vNFKxslcE2iOIOM4sJOSy8jKL\nVQUZlVsjAgMBAAECggEANa32Xr15fIs87oxesdvvJ4eOPAMNPObzKf9uFu4dx0kr\nMdIZxnX7B8IdwnPEytBvr6VgurRKwUwZ6o6pRugz3t/OOz9gUL08Cjibu+Tb0D1A\nxf6S+EUN2e72jqfe+ZlM4UDCYgTqvDMa0Ob0t1KSQjnfY4xUU7xZWyF7W4gIsTwo\nAyxWv7TX1yCToqMqM/GZjChNYdAoUNVf6VbUjo3CHO5icSLLm20NtUWGuhmqw3W4\nDE0ZbLyUvAzat2hZCFF+ElaibWDHG0AqBnrE53XlaXSvFunoPy4CcmJ0qVbcshb1\n0lKKI8djWRPKnmKFjpE37LPuJHsuicmDjSFvI+0r8QKBgQD4JhNjWzh57XZwtDA/\nSzh5ZbGfCrUKcrw9TP/4ed48QUi5riOPwb9a/8IQDwz0UDwoPcH+26oybdeL87UM\n2tYadisZBzGhmMYxuQhn5Na2ioHaKeCFQ49PCx82aEYuoLPUgXAK7FpuOZ7CG33l\na4yr+hQ0caNb0Aa0siOXC3eOvwKBgQDQs1mXBO5N6vmweQc2xfArTJSv9tFf9Wr+\nJY8X+JbEyAqhcs9fjZAEoIvYi7y1mFN/NczkDOQkHT+FNZna87TLeSY2xdzEVPY8\n4D84Wqy7Js6KNDSllmpBmVKSvVcVSfI7qe2r6uBM9O1WJDAWT9zBR5oA6twsGYjP\noR7gmEEwnQKBgQDKtU/hOgNIltLJ/mfrTGc1w/z1DqoVfuSGrv/q2qLQVgQyqi4i\noQLQM100ARdz/JcnyEtRBeBikZgim1KqzZlYxG8wYtAIUeSVebGELUu4kizBKrRe\nKHJI/6zfpQ6vyFceoR4Fzk2Q/UDTD+IoJ1MiqYcX0DzCI41Wzq6EFLn1wQKBgQDO\nAnxJKsDhgTWAEbghRTpSQ4HyQL1k76jxvrmFfAm3rY9w1xgExoSHTMM+upFI4Fhr\nlfvukRsS2xw8rjB1hWPOBoTGRIIr+4IljWZahodDJodyvR3K5rN0lZiA6Q3xIdFP\nO+o0beGDlbJB+e7N13+d+sP2a99yWLJH4k/Me/69sQKBgQD23WLe0i5y3l1IusML\n2y4dhry8iA8YSeekLQuTwAvjFRKU9SgKm4t5Jubvch4SEVif58Mh1ctEkfzq4KQ4\nOYDN4B8p+oQJdH29uHp6S9YHTJdJV9qmxkB4T61URbTpoVifvvYLcmlITqNYRMGO\nSA76rJq2xHTV1VeTf2s5Z/KseA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "corded-woodland-134623@appspot.gserviceaccount.com",
+  "client_id": "116220113923310656228",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/corded-woodland-134623%40appspot.gserviceaccount.com"
+}
